@@ -1,4 +1,4 @@
-package co.com.ejemplo.calculadora.test;
+package co.edu.ejemplo.calculadora;
 
 public class CalculadoraLogic {
 

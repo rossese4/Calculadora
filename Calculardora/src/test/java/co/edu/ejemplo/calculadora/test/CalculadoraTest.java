@@ -1,9 +1,10 @@
-package co.com.ejemplo.calculadora.test;
+package co.edu.ejemplo.calculadora.test;
 
-
-import static org.junit.Assert.assertNull;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import co.edu.ejemplo.calculadora.CalculadoraLogic;
 
 public class CalculadoraTest {
 
